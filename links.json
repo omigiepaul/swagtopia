@@ -1,0 +1,102 @@
+{
+  "site": {
+    "name": "Swagtopia",
+    "headline": "Step into Swagtopia.",
+    "intro": "Swagtopia is home to Zen Univrse: new music, official merch and a fan wall in one place. Listen now and watch this space for merch."
+  },
+  "artist": {
+    "name": "Zen Univrse"
+  },
+  "links": {
+    "listen": {
+      "label": "Listen",
+      "url": "https://unitedmasters.com/m/swagsonic"
+    },
+    "hq": {
+      "label": "Join Swagtopia HQ",
+      "url": "https://chat.whatsapp.com/LZkB3knRHWx4MZU7RQ7KQK?mode=gi_t"
+    }
+  },
+  "socials": [
+    {
+      "id": "x",
+      "label": "X",
+      "url": "https://x.com/zenunivrse"
+    },
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "url": "https://www.instagram.com/zenunivrse"
+    },
+    {
+      "id": "tiktok",
+      "label": "TikTok",
+      "url": "https://www.tiktok.com/@zenunivrse"
+    }
+  ],
+  "merch": {
+    "comingSoon": true,
+    "title": "Coming soon",
+    "lead": "Official Swagtopia gear, printed with the cover art.",
+    "message": "Join Swagtopia HQ to hear about the first drop before anyone else.",
+    "currency": "₦",
+    "checkoutUrl": "",
+    "items": [
+      {
+        "id": "tee",
+        "name": "Chrome Figure Tee",
+        "price": 15000,
+        "type": "tee",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "category": "Apparel"
+      },
+      {
+        "id": "hoodie",
+        "name": "Univrse Hoodie",
+        "price": 32000,
+        "type": "hood",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "category": "Apparel"
+      },
+      {
+        "id": "cap",
+        "name": "Castle Cap",
+        "price": 12000,
+        "type": "hat",
+        "category": "Accessories"
+      },
+      {
+        "id": "poster",
+        "name": "Poster (A2)",
+        "price": 8000,
+        "type": "poster",
+        "category": "Posters"
+      },
+      {
+        "id": "stickers",
+        "name": "Sticker Pack (6)",
+        "price": 3000,
+        "type": "sticker",
+        "category": "Accessories"
+      }
+    ],
+    "categories": [
+      "Apparel",
+      "Accessories",
+      "Posters"
+    ]
+  },
+  "fanWall": {
+    "tagline": "Leave a message"
+  }
+}
